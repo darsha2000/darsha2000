@@ -38,6 +38,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
+### VULNERABILITY MANAGEMENT
+<div>
+   <img src="https://img.shields.io/badge/-Nessus-777BB4?&style=for-the-badge&logo=Nessus&logoColor=black" />
+</div>
+
+
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />

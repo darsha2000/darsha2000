@@ -28,7 +28,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-PfSense-777BB4?&style=for-the-badge&logo=PfSense&logoColor=black" />
 </div>
 
@@ -40,7 +40,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### VULNERABILITY MANAGEMENT
 <div>
-   <img src="https://img.shields.io/badge/-Nessus-777BB4?&style=for-the-badge&logo=Nessus&logoColor=black" />
+   <img src="https://img.shields.io/badge/-Nessus-777BB4?&style=for-the-badge&logo=tenable&logoColor=black" />
 </div>
 
 
@@ -49,6 +49,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### CLOUD
+<div>
+   <img src="https://img.shields.io/badge/-AWS-E37400?&style=for-the-badge&logo=amazon&logoColor=black" />
 </div>
 
 ## Certifications

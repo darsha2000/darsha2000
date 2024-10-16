@@ -28,8 +28,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PfSense-777BB4?&style=for-the-badge&logo=PfSense&logoColor=black" />
+    <a href="https://www.snort.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" alt="Snort Badge" />
+</a>
+<a href="https://www.pfsense.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-PfSense-777BB4?&style=for-the-badge&logo=PfSense&logoColor=black" alt="PfSense Badge" />
+</a>
+
 </div>
 
 ### Endpoint

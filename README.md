@@ -1,8 +1,6 @@
 # Hello, I'm Adarsha J K
 <a href="https://linkedin.com/in/adarsha-jk-a91a31238"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
@@ -23,18 +21,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <a href="https://www.snort.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" alt="Snort Badge" />
-</a>
-<a href="https://www.pfsense.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" alt="Snort Badge" /></a>
     <img src="https://img.shields.io/badge/-PfSense-777BB4?&style=for-the-badge&logo=PfSense&logoColor=black" alt="PfSense Badge" />
-</a>
-
 </div>
 
 ### Endpoint
@@ -43,7 +34,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### VULNERABILITY MANAGEMENT
+### Vulnerability Management
 <div>
    <img src="https://img.shields.io/badge/-Nessus-777BB4?&style=for-the-badge&logo=tenable&logoColor=black" />
 </div>
@@ -56,7 +47,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### CLOUD
+### Cloud
 <div>
    <img src="https://img.shields.io/badge/-AWS-E37400?&style=for-the-badge&logo=amazon&logoColor=black" />
 </div>

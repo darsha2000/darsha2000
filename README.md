@@ -36,7 +36,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Vulnerability Management
 <div>
-   <img src="https://img.shields.io/badge/-Nessus-777BB4?&style=for-the-badge&logo=tenable&logoColor=black" />
+   <img src="https://img.shields.io/badge/-Nessus-006400?&style=for-the-badge&logo=tenable&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Qualys-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
 </div>
 
 

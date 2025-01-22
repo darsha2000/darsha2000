@@ -59,5 +59,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/darsha2000/pfsense_firewall.git">Pfsense Firewall</a>
-- Detection Lab
-- SOC Automation Project
+- Security Operations and Threat Response Simulation
+- Detection Engineering and Automation
+- Risk assessment

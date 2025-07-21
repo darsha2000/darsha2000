@@ -4,7 +4,7 @@
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-
+Aspiring web developer with a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React.js. Eager to contribute to dynamic development teams and build user-friendly, responsive websites. Seeking an entry-level position to apply and expand my skills while delivering high-quality web solutions.
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 

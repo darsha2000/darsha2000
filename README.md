@@ -17,6 +17,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Tools
+### Languages
+<div>
+    <img src="https://img.shields.io/badge/-HTML-E34C26?&style=for-the-badge&logo=HTML&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS-2965f1?&style=for-the-badge&logo=CSS&logoColor=white" alt="Snort Badge" /></a>
+    <img src="https://img.shields.io/badge/-JavaScript-f0db4f ?&style=for-the-badge&logo=JavaScript&logoColor=black" alt="PfSense Badge" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />

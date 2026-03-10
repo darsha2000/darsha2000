@@ -1,12 +1,11 @@
 # Hello, I'm Adarsha J K
 <a href="https://linkedin.com/in/adarsha-jk-a91a31238"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am  with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-Aspiring web developer with a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React.js. Eager to contribute to dynamic development teams and build user-friendly, responsive websites. Seeking an entry-level position to apply and expand my skills while delivering high-quality web solutions.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Analyst.
 
 ## Skills
 
@@ -19,9 +18,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Tools
 ### Languages
 <div>
+    <img src="https://img.shields.io/badge/Python-06B6D4?&style=for-the-badge&logo=python&logoColor=white"  />
     <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML Badge" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript Badge" />
-    <img src="https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=React&logoColor=black" alt="React Badge" />
     <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?&style=for-the-badge&logo=TailwindCSS&logoColor=white" alt="Tailwind CSS Badge" />
 </div>
 
@@ -29,9 +28,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="wireshark Badge" />
     <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" alt="Snort Badge" /></a>
     <img src="https://img.shields.io/badge/-PfSense-777BB4?&style=for-the-badge&logo=PfSense&logoColor=black" alt="PfSense Badge" />
+    <img src="https://img.shields.io/badge/-nmap-1679A7?&style=for-the-badge&logo=Nmap&logoColor=white" alt="nmap Badge" />
 </div>
 
 ### Endpoint
@@ -64,8 +64,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Internshall Ethical Hacking-FF0000?&style=for-the-badge&logo=Internshalla&logoColor=blue" />
+<img src="https://img.shields.io/badge/Cisco-FF0000?&style=for-the-badge&logo=Cisco&logoColor=blue" />
 <img src="https://img.shields.io/badge/-AWS Cloud Foundations-007ACC?&style=for-the-badge&logo=AWS&logoColor=black" />
+
 
 ## Projects
 - <a href="https://github.com/darsha2000/pfsense_firewall.git">Pfsense Firewall</a>
